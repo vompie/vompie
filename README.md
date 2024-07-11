@@ -29,8 +29,8 @@ I'm a software engineer and a full stack developer
 |----------|----------|
 | <img src="https://raw.githubusercontent.com/vompie/vompie/b03e9dc1ce056355fec9113d42a1205dc1e75fdb/assets/linux-icon.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/vompie/vompie/b03e9dc1ce056355fec9113d42a1205dc1e75fdb/assets/ubuntu-icon.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/>
 
-### Other tools
- 
+### 🔧 Other tools
+
 | <a href="https://www.notion.so/">Notion</a> | <a href="https://code.visualstudio.com/">VSCode</a> | <a href="https://www.google.com/">Google</a> | <a href="https://youtu.be/dQw4w9WgXcQ?si=39d936iFKX7BK-hB">Positive</a> |
 |----------|----------|----------|----------|
 |<img src="https://raw.githubusercontent.com/vompie/vompie/8a8e6f65b84384065bcd732eb2808f19e342d16a/assets/notion-icon.svg" title="Notion" alt="Notion" width="55" height="55" />|<img src="https://raw.githubusercontent.com/vompie/vompie/8a8e6f65b84384065bcd732eb2808f19e342d16a/assets/visualstudio_code-icon.svg" title="VSCode" alt="VSCode" width="55" height="55" />|<img src="https://raw.githubusercontent.com/vompie/vompie/8a8e6f65b84384065bcd732eb2808f19e342d16a/assets/google-icon.svg" title="Google" alt="Google" width="55" height="55" />|<img src="https://raw.githubusercontent.com/vompie/vompie/8a8e6f65b84384065bcd732eb2808f19e342d16a/assets/positive-icon.svg" title="Positive" alt="Positive" width="55" height="55" />|
@@ -48,7 +48,6 @@ I'm a software engineer and a full stack developer
 ## 🏆 Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=vompie&title=Experience,Commits&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-&nbsp;
 
 <!--
 - 🔭 I’m currently working on ...
