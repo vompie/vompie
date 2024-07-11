@@ -50,10 +50,6 @@ I'm a software engineer and a full stack developer
 
 &nbsp;
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -61,5 +57,3 @@ I'm a software engineer and a full stack developer
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
