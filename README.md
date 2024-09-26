@@ -46,6 +46,8 @@ I'm a software engineer and a full stack developer
 &nbsp;
 
 ## 🏆 Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vompie&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=vompie&title=Experience,Commits&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
