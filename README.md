@@ -41,14 +41,14 @@ I'm a software engineer and a full stack developer
 
 ## 🖥 Past work
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vompie&repo=VomPieN&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/vompie/VomPieN) &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vompie&repo=crypto-follower-bot&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/vompie/crypto-follower-bot) &nbsp;
 
 &nbsp;
 
 ## 🏆 Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vompie&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=vompie&title=Experience,Commits&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vompie&title=Experience,Commits&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
