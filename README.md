@@ -41,7 +41,6 @@ I'm a software engineer and a full stack developer
 
 ## 🖥 Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vompie&repo=PicLinker&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/vompie/PicLinker) &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vompie&repo=VomPieN&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/vompie/VomPieN) &nbsp;
 
 &nbsp;
